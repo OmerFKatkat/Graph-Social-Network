@@ -1,4 +1,4 @@
-Graph-Based Social Network Analysis
+# Graph-Based Social Network Analysis
 This project implements a graph data structure to model and analyze relationships within a social network. Each individual in the network is represented as a vertex, and relationships are modeled as edges.
 
 Features:
